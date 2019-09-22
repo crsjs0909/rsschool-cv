@@ -24,8 +24,8 @@
 **GitHub:** <https://github.com/crsjs0909>
 
 ## Education
-> ENgineer
-> BNTU 2013-2018 (extramural)
+> Engineer, 
+> BNTU 2013-2018 (extramural), 
 > Civil Engineering Faculty
 
 ## English: A2(pre-intermediate)
