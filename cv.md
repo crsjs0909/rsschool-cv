@@ -1,7 +1,7 @@
 #  Curriculum Vitae
-## NAME: ==Oleg Kin==
-## Email: ==noklige@gmail.com==
-## Phone: ==+375 25 5298740==
+## NAME: Oleg Kin
+## Email: noklige@gmail.com
+## Phone: +375 25 5298740
 ## Summary: 
 > Hi. A hightly motivated frontend developer. I wish to be a part of professional team.
 > I am novice at IT area, but have a skill and opportunity to grow up to qualified specialist.
